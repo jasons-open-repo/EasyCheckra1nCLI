@@ -1,5 +1,9 @@
-# EasyCheckra1nCLI
+
 # EasyCheckra1n CLI - The thing that makes hard to easy.
+# UPDATE: You could download EasyCheckra1nCLI easily without third-party softwares by entering THIS command in the terminal:
+# git clone https://www.github.com/EasyCheckra1nCLI
+
+
 
 If you wan't a more stable and native release of checkra1n CLI, please go to https://checkra.in/releases and
 download the latest version. When a new update comes to checkra1n, EasyCheckra1nCLI won't get updated automatically.
@@ -18,5 +22,5 @@ A: Well, 1. It goesn't have additional icon files and GUI based apps so, less sp
 false positive since it's located at home folder which is VERY delicate.
 
 Q: Is EasyCheckra1nCLI a rip-off?
-A: No. It's directly ported from official checkra1n files.
+A: No. It's directly ported directly from official checkra1n files.
 
