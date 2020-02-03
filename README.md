@@ -1,7 +1,7 @@
 
 # EasyCheckra1n CLI - The thing that makes hard to easy.
 # UPDATE: You could download EasyCheckra1nCLI easily without third-party softwares by entering THIS command in the terminal:
-# git clone https://www.github.com/EasyCheckra1nCLI
+# git clone https://www.github.com/jasons-open-repo/EasyCheckra1nCLI
 
 
 
