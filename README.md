@@ -24,3 +24,4 @@ false positive since it's located at home folder which is VERY delicate.
 Q: Is EasyCheckra1nCLI a rip-off?
 A: No. It's directly ported directly from official checkra1n files.
 
+Please do not fork this. The sources are pre-built.
